@@ -1,0 +1,19 @@
+{
+  "name": "my-pattern-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenningsMK/my-pattern-library.git"
+  },
+  "author": "Mark Jennings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JenningsMK/my-pattern-library/issues"
+  },
+  "homepage": "https://github.com/JenningsMK/my-pattern-library#readme"
+}
